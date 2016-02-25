@@ -1,0 +1,14 @@
+.intro {
+	padding: 50px 0 100px 0;
+	margin-bottom: 80px;
+}
+
+.intro > img {
+	max-width: 30%;
+	height: auto;
+}
+
+.masthead {
+	background: url('../img/background.png') !important;
+	background-repeat: repeat;
+}
