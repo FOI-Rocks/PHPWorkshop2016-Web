@@ -15,7 +15,7 @@
     </div>
     <div class="ui center aligned container" style="margin-bottom: 70px">
     <span style="font-weight: 200; font-size: 1.4em;">
-        Samostalno si radio/la na PROG1, PROG2, WebDiP-u i sličnim kolegijima, a čak si ih i položio/la? Ili si jednostavno sam/a dosta programirao/la i pojmovi poput varijabli, klasa i funkcija ti nisu strani? Prijavi se i u opuštenoj atmosferi nauči kako krenuti graditi svoju web aplikaciju te osnovne metodologije i alate koji se aktivno koriste u industriji.
+        Samostalno si radio/la na PROG1, PROG2, WebDiP-u i sličnim kolegijima, a čak si ih i položio/la? Ili si jednostavno sam/a dosta programirao/la i pojmovi poput varijabli, klasa i funkcija ti nisu strani? Prijavi se i u opuštenoj atmosferi nauči kako krenuti graditi svoju web aplikaciju te primijeniti osnovne metodologije i alate koji se aktivno koriste u industriji.
     </span>
     </div>
     <br>
