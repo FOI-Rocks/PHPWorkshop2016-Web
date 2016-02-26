@@ -76,7 +76,7 @@
         <br>
         <div class="ui container center aligned">
             <p>
-                Zbog prirode radionice i prostornih ograničenja postoji kapacitet za 14 polaznika. Ukoliko broj prijava premaši kapacitet prijave će biti filtrirane po prethodnom iskustvu opisanom u prijavi.
+                Zbog prirode radionice i prostornih ograničenja postoji kapacitet za 15 polaznika. Ukoliko broj prijava premaši kapacitet prijave će biti filtrirane po prethodnom iskustvu opisanom u prijavi.
             </p>
             <br>
             <a href="https://igorrinkovec.typeform.com/to/uvGYB6" class="ui huge green button">
